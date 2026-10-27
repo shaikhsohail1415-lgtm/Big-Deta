@@ -1,0 +1,2 @@
+total_revenue,total_orders,total_customers,total_products,avg_order_value,first_date,last_date,raw_rows,clean_rows
+1450806.98,9388,1500,300,154.54,2010-12-01 17:06:00,2011-12-09 16:40:00,79195,72064

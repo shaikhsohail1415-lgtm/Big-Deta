@@ -1,0 +1,5 @@
+cluster,customers,avg_recency,avg_frequency,avg_monetary,total_revenue,segment,revenue_share_pct
+1,115,16.69,25.7,6139.25,706013.22,Champions,48.66
+3,316,35.68,9.45,1323.23,418140.12,Loyal Customers,28.82
+0,656,124.83,4.1,419.91,275464.18,At-Risk,18.99
+2,413,284.35,1.84,123.95,51189.46,Lost / Hibernating,3.53

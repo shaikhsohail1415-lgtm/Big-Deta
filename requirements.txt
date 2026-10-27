@@ -1,0 +1,4 @@
+# Lightweight dependencies for the Streamlit dashboard (used by Streamlit Community Cloud)
+streamlit>=1.50
+pandas>=2.0
+plotly>=5.18

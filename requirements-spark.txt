@@ -1,0 +1,4 @@
+# Needed only to RE-RUN the PySpark pipeline locally / on Colab (requires Java 17 or 21)
+pyspark>=3.5
+pandas>=2.0,<3.0
+numpy
